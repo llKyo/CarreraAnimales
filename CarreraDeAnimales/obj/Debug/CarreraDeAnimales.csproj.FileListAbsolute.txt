@@ -1,0 +1,6 @@
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.exe.config
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.exe
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.pdb
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.csprojResolveAssemblyReference.cache
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.exe
+F:\Progra\C#\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.pdb
